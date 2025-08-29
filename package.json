@@ -26,5 +26,7 @@
     "tutor",
     "interactive"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Your Name <your.email@example.com>",
+  "homepage": "https://github.com/yourusername/wireframe-interactive-tutor#readme"
 }
