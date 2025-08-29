@@ -1,7 +1,7 @@
 {
   "name": "wireframe-interactive-tutor",
   "version": "1.0.0",
-  "description": "An interactive web-based tool that guides users through creating wireframes with step-by-step tutorials and examples, enhancing their design skills.",
+  "description": "An interactive web-based tool that assists users in creating wireframes through step-by-step tutorials and design examples.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
